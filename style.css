@@ -1,0 +1,15 @@
+td:nth-child(2) {
+    padding-left: 20px;
+}
+
+hr.main_line {
+    height: 4px;
+    background-color: black;
+    border: none;
+}
+
+hr.other_line {
+    height: 2px;
+    background-color: darkgray;
+    border: none;
+}
