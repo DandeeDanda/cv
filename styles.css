@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #212431;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #212431;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #212431;
+    font-size: 1.35rem;
+}
+
+p {
+    color: #212431;
+}
+
+.top_container {
+    padding-top: 125px;
+    background-color: #B0D7FF;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 100px;
+    top: 75px;
+    width: 300px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 125px;
+    width: 225px;
+    bottom: 275px;
+}
+
+img.profile_picture {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    display: inline;
+}
+
+div.profile {
+    width: 50%;
+    margin: 0 auto 125px auto;
+}
+
+a:visited {
+    color: #61606C;
+}
+
+a:link {
+    color: #61606C;
+}
+
+img.programming_image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+img.chess_board {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #61606C;
+    border-width: 15px;
+    width: 50%;
+}
+
+img.get_in_touch_image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+img.mountain_image {
+    width: 42rem;
+}
+
+div.skill_row {
+    width: 50%;
+    margin: 75px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+div.contact_me {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+h2.get_in_touch_text {
+    text-align: center;
+    display: inline;
+}
+
+div.profile_title {
+    text-align: center;
+    display: inline;
+}
+
+p.profile_text {
+    padding-top: 10%;
+}
